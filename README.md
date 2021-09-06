@@ -1,4 +1,4 @@
-Universal-Shooting-Scripts-for-Unity
+Universal Shooting Script for Unity2D
 Unity shooting scripts, for shotguns, pistols, assult rifles, burst weapons, etc.
 
 will only work if you have a GameOject that follows the mouses position called your crossHair that has a Rigidbody2D attached.
